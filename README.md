@@ -23,7 +23,7 @@ This repository contains the methodology for setting up and running LiDAR (Livox
   - Livox ROS Driver
   - FAST-LIO2
 - **Visualization**: Rviz/Gazebo
-- **Optional Sensors**: Wheel encoders, IMU, or camera (for visual odometry)
+- **Optional Sensors**: GPS, Wheel encoders, IMU, or camera (for visual odometry)
 
 ---
 
